@@ -4,4 +4,4 @@
 - 🌱 Portfolio 포트폴리오: [Portfolio](https://www.notion.so/COVERLETTER-PORTFOLIO-2eb64be0156d446ab2f291f95591b127)
 - 👯 Tistory 블로그 : [Tistory](https://haerang94.tistory.com/)
 - 📫 How to reach me 연락하기: gofkdvjvl@naver.com 
-- ⚡ Fun fact 취미: 마인크래프트하기, 책읽기
+- ⚡ Fun fact 취미: 친구들과 마인크래프트하기, 책읽기
