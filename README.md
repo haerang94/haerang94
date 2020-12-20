@@ -6,6 +6,8 @@
 - 📫 How to reach me 연락하기: gofkdvjvl@naver.com 
 - ⚡ Fun fact 취미: 친구들과 마인크래프트하기, 책읽기
 
+[![haerang's github stats](https://github-readme-stats.vercel.app/api?username=haerang94)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 학력
 
 2015.03 ~ 2020.08 가톨릭대학교 컴퓨터정보공학부 4.29/4.5 (졸업)
